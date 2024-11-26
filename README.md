@@ -1,3 +1,5 @@
 Web Resume created by using rmd file in R studio 
 
 I given the email-id , gitup id , linkedin id in hyperlink and also  gievn the certification proof as a hyperlink
+
+Creating a web-based resume using R Markdown (Rmd) in R programming offers a professional, customizable, and interactive platform to showcase your skills. It allows full control over formatting and design, enabling a polished appearance with features like live charts, tables, and embedded visuals generated directly from R. Hosting your resume online through platforms like GitHub Pages or RPubs ensures easy accessibility and seamless sharing. It also highlights your data science expertise by embedding reproducible code, data visualizations, and analytical insights directly into the resume, showcasing technical skills effectively. Furthermore, the R Markdown ecosystem is cost-effective, requiring no additional software, and is future-proof with its scalability and compatibility across devices. This approach combines technical prowess with creativity, making it an excellent choice for professionals in data-driven fields.
