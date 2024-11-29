@@ -1,0 +1,141 @@
+---
+title: "DEEPANEESH R V"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+-   [Linkedin](https://www.linkedin.com/in/deepaneesh-rv-9aa0b5247)
+-   [Github](https://github.com/Deepaneesh)
+-   [deepaneesh98@gmail.com](mailto:deepaneesh98@gmail.com)
+-   **Phone No:** 7373468818
+-   **Address:** Salem,Tamil Nadu
+
+## Objective
+
+Adaptable and quick-learning professional seeking a role to contribute to a dynamic team with problem-solving skills and effective collaboration.
+
+## Education
+
+-   **Master of Science in Statistics**
+
+    **Duration:** 2023-2025
+
+    Bharathiyar University
+
+    [PSG College of Arts & Science , Coimbatore](https://www.psgcas.ac.in/)
+
+    **Percentage:** 86.46% [upto 2nd Semester]
+
+-   **Bachelor of Science in Statistics**
+
+    **Duration:** 2020-2023
+
+    Bharathiyar University
+
+    [PSG College of Arts & Science , Coimbatore](https://www.psgcas.ac.in/)
+
+    **Percentage:** 88.85%
+
+-   **HSC**
+
+    **Duration:** 2019-2020
+
+    State board of Tamil Nadu
+
+    [Velammal .Matric .Hr.Sec.School, Karur](http://www.velammalschoolskarur.edu.in/)
+
+    **Percentage:** 88.30%
+
+-   **SSLC** Duration: 2017-2018
+
+    State board of Tamil Nadu
+
+    [Velammal .Matric .Hr.Sec.School, Karur](http://www.velammalschoolskarur.edu.in/)
+
+    **Percentage:** 88.30%
+
+## Courses & Certificates
+
+-   **Descriptive Statistics With R Software** - [NPTEL](https://drive.google.com/file/d/1iBZQbzuFFju2cGwKzDdqwf3rWIM3SLfv/view)
+-   **Introduction to Biostatistics** - [NPTEL](https://drive.google.com/file/d/1z-gr14be_SKwmc6pE8UwzGLGL4scE0ry/view?usp=drive_link)
+-   **Biostatistics and Design of Experiments** -[NPTEL](https://drive.google.com/file/d/139wtpd2STRq0rpgxqsOj-gO5Rsj6UOhD/view?usp=sharing)
+-   **Essentials Of Data Science With R Software - 2\_ Sampling Theory And Linear Regression Analysis** -[NPTEL](https://drive.google.com/file/d/1x93cZzqcByN9a1D419v3Sao0Q3B6AajU/view?usp=sharing)
+-   **Google Cloud Big Data and Machine Learning Fundamentals** -[Coursera](https://coursera.org/verify/XUESAPJL8JLS)
+-   **Predictive Modeling, Model Fitting, and Regression Analysis** -[Coursera](https://coursera.org/verify/7F37KUMZF5BT)
+-   **Linear Regression For Business Statistics** -[Coursera](https://coursera.org/share/5ecc634caca4d88d30ada2afd783e729)
+-   **R Programming** -[Coursera](https://coursera.org/share/062f9f8ea22e7dbc4ce4438997054438)
+-   **Data Visualization With R** -[Coursera](https://coursera.org/verify/U42ULNN2YML7)
+-   **Data Analysis with R Programming** -[Coursera](https://coursera.org/verify/R76VY1D2YRYX)
+-   **Excel for Beginners** -[Great Learning](verify.mygreatlearning.com/TGLEKLZF)
+-   **Python Course For Beginners With Certification Mastering the Essentials** - [Scaler](https://moonshot.scaler.com/s/li/zVwVgjy7J_)
+-   **Elements Of AI** -[University of Helsinki](https://certificates.mooc.fi/validate/s6y8icoeil9)
+
+## Projects
+
+-   [**Statistical Study on Vital Reports**](https://github.com/Deepaneesh/Statistical-Study-on-Vital-Reports/blob/main/STATISTICAL%20STUDY%20ON%20VITAL%20REPORTS.pdf)
+
+    **Abstract:** Analyzing the relationship between age of death for region and gender, and predicting future birth and mortality rates by region.
+
+    **Tools:** R programming , SPSS , Jamovi , Excel
+
+    **Result:** There is A strong relationship between age of death for region and gender , the birth rate and Mortality rate are slowly increasing in future
+
+-   [**Optimizing Diabetes Management : A Predictive Approach to Medication Effectiveness**](https://github.com/Deepaneesh/Optimizing-Diabetes-Management-)
+
+    **Abstract**: This project evaluates the effectiveness of Metformin, Glipizide, and Sitagliptin in managing blood glucose levels in Type 2 Diabetes patients over 8 weeks. Using ARIMA models on synthetic data, it forecasts blood glucose trends, identifies Glipizide as the most effective, and provides model accuracy metrics.
+
+    **Tools:** R Programming
+
+    **Result:** Our study found Glipizide to be the most effective in reducing blood glucose levels in Type 2 Diabetes patients, with a total reduction of 24.5. The ARIMA model reliably predicted glucose normalization within 10 weeks, with MAE of 6.75 and RMSE of 6.76. This emphasizes the value of data-driven approaches in diabetes management.
+
+-   [**Bangalore Traffic Prediction**](https://github.com/Deepaneesh/Bangalore-Traffic-Analysis/blob/main/Bangalore-Traffic-Analysis.html)
+
+    **Abstract**: This project analyzes Bangalore's traffic patterns to identify months with the highest traffic volume and predict future trends. It explores the relationship between average speed and congestion levels, showing how weather impacts speed and traffic volume. These insights aim to aid in effective traffic management and planning.
+
+    **Tools:** R Programming
+
+    **Result:** The analysis shows Bangalore's traffic volume is highest on Wednesdays and peaks in June. Increased average speed reduces congestion, while adverse weather lowers speed, increasing traffic volume. Without intervention, traffic is expected to rise rapidly, highlighting the need for effective management strategies.
+
+## Internship
+
+**Company Name : [SIMA](https://www.simamills.in/)** (South Indian Mill Association)
+
+**Role:** Data Analyst
+
+**Duration:** July-August 2022 & July -2024
+
+## Skills
+
+-   **Programming Languages:** R , Python , SQL
+
+-   **Tools and Software:** MS-Office, Excel, R-Studio, SPSS, SYSTAT, Jamovi, Latex,Rmd Files
+
+## Awards and Achievements
+
+-   **BASIC LIFE SUPPORT AND RECOVERY POSITION**--Voluntary work in the ’WORLD RECORD EVENT UNDER ASIA BOOK OF RECORDS’
+
+    **Year :** 2023
+
+-   Participated in **Nova Nordisk** Symposium for Innovative and Applied Statistics
+
+    **Year:** June–2024 & July–2024
+
+## Interested Area
+
+-   Analysis
+-   Estimation
+-   Coding
+
+## Languages Known
+
+-   Tamil
+-   English
+-   French
+
+## Hobbies
+
+-   Story Editing
+-   Chess
