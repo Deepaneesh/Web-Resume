@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 -   [Linkedin](https://www.linkedin.com/in/deepaneesh-rv-9aa0b5247)
 -   [Github](https://github.com/Deepaneesh)
 -   [deepaneesh98\@gmail.com](mailto:deepaneesh98@gmail.com)
--   **Phone No:** 7373468818
+-   **Phone No:** [7373468818](tel:7373468818)
 -   **Address:** Salem,Tamil Nadu
 
 ## Objective
@@ -31,7 +31,7 @@ Adaptable and quick-learning professional seeking a role to contribute to a dyna
 
     [PSG College of Arts & Science , Coimbatore](https://www.psgcas.ac.in/)
 
-    **Percentage:** 86.46% [upto 2nd Semester]
+    **Percentage:** 86.65% [upto 3rd Semester]
 
 -   **Bachelor of Science in Statistics**
 
