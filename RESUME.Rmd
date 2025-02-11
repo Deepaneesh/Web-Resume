@@ -97,7 +97,7 @@ Adaptable and quick-learning professional seeking a role to contribute to a dyna
 
     **Result:** Our study found Glipizide to be the most effective in reducing blood glucose levels in Type 2 Diabetes patients, with a total reduction of 24.5. The ARIMA model reliably predicted glucose normalization within 10 weeks, with MAE of 6.75 and RMSE of 6.76. This emphasizes the value of data-driven approaches in diabetes management.
 
--   [**Bangalore Traffic Prediction**](https://github.com/Deepaneesh/Bangalore-Traffic-Analysis/blob/main/Bangalore-Traffic-Analysis.html)
+-   [**Bangalore Traffic Prediction**](https://deepaneesh.github.io/Bangalore-Traffic-Analysis/)
 
     **Abstract**: This project analyzes Bangalore's traffic patterns to identify months with the highest traffic volume and predict future trends. It explores the relationship between average speed and congestion levels, showing how weather impacts speed and traffic volume. These insights aim to aid in effective traffic management and planning.
 
