@@ -5,6 +5,8 @@ output:
     toc: true
     toc_depth: 2
     toc_float: true
+    theme: "flatly"  # Clean, minimal, and modern Bootstrap theme
+    highlight: "tango"  # Valid highlighting theme
 ---
 
 ```{r setup, include=FALSE}
@@ -61,7 +63,7 @@ Adaptable and quick-learning professional seeking a role to contribute to a dyna
 
     [Velammal .Matric .Hr.Sec.School, Karur](http://www.velammalschoolskarur.edu.in/)
 
-    **Percentage:** 88.30%
+    **Percentage:** 80.40%
 
 ## Courses & Certificates
 
@@ -105,6 +107,22 @@ Adaptable and quick-learning professional seeking a role to contribute to a dyna
 
     **Result:** The analysis shows Bangalore's traffic volume is highest on Wednesdays and peaks in June. Increased average speed reduces congestion, while adverse weather lowers speed, increasing traffic volume. Without intervention, traffic is expected to rise rapidly, highlighting the need for effective management strategies.
 
+-   [**Enhancing Leukemia Detection With Machine Learning And Statistical Analysis**](https://github.com/Deepaneesh/Leukemia/blob/main/ENHANCING%20LEUKEMIA%20DETECTION%20WITH%20MACHINE%20LEARNING%20AND%20STATISTICAL%20ANALYSIS.pdf)
+
+    **Abstract**: This study aims to develop highly optimized statistical and machine learning models for accurate leukemia prediction by fine-tuning hyperparameters through iterative methods. It also seeks to identify the best-performing model based on predictive accuracy and analyze key variables influencing leukemia status using feature importance or model coefficients.
+
+    **Tools:** R programming , Jamovi
+
+    **Result:** To reduce leukemia risk and improve early detection, individuals with family history or genetic risk should undergo regular screenings. Lifestyle changes, close monitoring of abnormal WBC counts, and public health awareness can aid prevention. More research is needed on socioeconomic and environmental impacts on leukemia development.
+
+-   [**A Statistical And Machine Learning Approach To Early Detection And Affected Area Prediction In Neuromuscular Disorders**](https://github.com/Deepaneesh/Neuromuscular-Disorder/blob/main/A%20Statistical%20And%20Machine%20Learning%20Approach%20To%20Early%20Detection%20And%20Affected%20Area%20Prediction%20In%20Neuromuscular%20Disorders.pdf)
+
+    **Abstract**: This study aims to explore the interplay between treatment adherence, disease severity, and patient outcomes in neuromuscular disorders. It investigates how clinical and treatment factors influence disease progression and patient strength, while evaluating various machine learning models to identify the most effective one for early-stage diagnosis. The best-performing model will be assessed and validated using ROC and AUC values to predict disease stages and major health issues, supporting more accurate diagnosis and treatment.
+
+    **Tools:** R programming , Jamovi , Excel
+
+    **Result:** This study explores how treatment adherence, disease severity, and patient outcomes interact in neuromuscular disorders, emphasizing the need for holistic, personalized care. It highlights the power of machine learning models like CatBoost and Random Forest to improve early detection, predict major health issues, and optimize treatment strategies. The findings stress the importance of continuous monitoring, tailored interventions, and further model validation to enhance long-term patient outcomes.
+
 ## Internship
 
 **Company Name : [SIMA](https://www.simamills.in/)** (South Indian Mill Association)
@@ -118,6 +136,8 @@ Adaptable and quick-learning professional seeking a role to contribute to a dyna
 -   **Programming Languages:** R , Python , SQL
 
 -   **Tools and Software:** MS-Office, Excel, R-Studio, SPSS, SYSTAT, Jamovi, Latex
+
+-  **Version Control:** Git , GitHub
 
 ## Awards and Achievements
 
