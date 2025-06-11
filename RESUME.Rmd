@@ -83,7 +83,7 @@ Adaptable and quick-learning professional seeking a role to contribute to a dyna
 
 ## Projects
 
--   [**Statistical Study on Vital Reports**](https://github.com/Deepaneesh/Statistical-Study-on-Vital-Reports/blob/main/STATISTICAL%20STUDY%20ON%20VITAL%20REPORTS.pdf)
+-   [**Statistical Study on Vital Reports**](https://github.com/Deepaneesh/Statistical-Study-on-Vital-Reports/blob/main/Statistical%20Study%20on%20Vital%20Reports.pdf)
 
     **Abstract:** Analyzing the relationship between age of death for region and gender, and predicting future birth and mortality rates by region.
 
