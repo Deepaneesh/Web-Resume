@@ -33,7 +33,7 @@ Adaptable and quick-learning professional seeking a role to contribute to a dyna
 
     [PSG College of Arts & Science , Coimbatore](https://www.psgcas.ac.in/)
 
-    **Percentage:** 86.65% [upto 3rd Semester]
+    **Percentage:** 87.68%
 
 -   **Bachelor of Science in Statistics**
 
@@ -67,6 +67,7 @@ Adaptable and quick-learning professional seeking a role to contribute to a dyna
 
 ## Courses & Certificates
 
+-   **Complete Machine Learning With R Studio - ML for 2025** -[Udemy](https://www.udemy.com/certificate/UC-7fcf6841-3a51-4549-a802-9f37ec9ff15e/)
 -   **Descriptive Statistics With R Software** - [NPTEL](https://drive.google.com/file/d/1iBZQbzuFFju2cGwKzDdqwf3rWIM3SLfv/view)
 -   **Introduction to Biostatistics** - [NPTEL](https://drive.google.com/file/d/1z-gr14be_SKwmc6pE8UwzGLGL4scE0ry/view?usp=drive_link)
 -   **Biostatistics and Design of Experiments** -[NPTEL](https://drive.google.com/file/d/139wtpd2STRq0rpgxqsOj-gO5Rsj6UOhD/view?usp=sharing)
@@ -137,7 +138,7 @@ Adaptable and quick-learning professional seeking a role to contribute to a dyna
 
 -   **Tools and Software:** MS-Office, Excel, R-Studio, SPSS, SYSTAT, Jamovi, Latex
 
--  **Version Control:** Git , GitHub
+-   **Version Control:** Git , GitHub
 
 ## Awards and Achievements
 
