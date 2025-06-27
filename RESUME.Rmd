@@ -13,7 +13,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
--   [Linkedin](https://www.linkedin.com/in/deepaneesh-rv-9aa0b5247)
+-   [Linkedin](http://www.linkedin.com/in/deepaneesh)
 -   [Github](https://github.com/Deepaneesh)
 -   [deepaneesh98\@gmail.com](mailto:deepaneesh98@gmail.com)
 -   **Phone No:** [7373468818](tel:7373468818)
