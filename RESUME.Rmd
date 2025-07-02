@@ -19,15 +19,14 @@ knitr::opts_chunk$set(echo = TRUE)
 -   **Phone No:** [7373468818](tel:7373468818)
 -   **Address:** Salem, Tamil Nadu
 
-<hr style="height:2px; background-color:black; border:none;" />
-
 ## **OBJECTIVE**
+<hr style="height:2px; background-color:black; border:none;" />
 
 Adaptable and quick-learning professional seeking a role to contribute to a dynamic team with problem-solving skills and effective collaboration.
 
-<hr style="height:2px; background-color:black; border:none;" />
 
 ## **EDUCATION**
+<hr style="height:2px; background-color:black; border:none;" />
 
 -   **Master of Science in Statistics**
 
@@ -69,9 +68,10 @@ Adaptable and quick-learning professional seeking a role to contribute to a dyna
 
     **Percentage:** 80.40%
 
-<hr style="height:2px; background-color:black; border:none;" />
+
 
 ## **COURSES & CERTIFICATES**
+<hr style="height:2px; background-color:black; border:none;" />
 
 -   **Complete Machine Learning With R Studio - ML for 2025** -[Udemy](https://www.udemy.com/certificate/UC-7fcf6841-3a51-4549-a802-9f37ec9ff15e/)
 -   **Descriptive Statistics With R Software** - [NPTEL](https://drive.google.com/file/d/1iBZQbzuFFju2cGwKzDdqwf3rWIM3SLfv/view)
@@ -89,9 +89,10 @@ Adaptable and quick-learning professional seeking a role to contribute to a dyna
 -   **SQL for Beginners : Learn SQL using MySQL and Database Design Course** -[Scaler](https://moonshot.scaler.com/s/sl/JuLJrv_MXC)
 -   **Elements Of AI** -[University of Helsinki](https://certificates.mooc.fi/validate/s6y8icoeil9)
 
-<hr style="height:2px; background-color:black; border:none;" />
+
 
 ## **PROJECTS**
+<hr style="height:2px; background-color:black; border:none;" />
 
 -   [**Statistical Study on Vital Reports**](https://github.com/Deepaneesh/Statistical-Study-on-Vital-Reports/blob/main/Statistical%20Study%20on%20Vital%20Reports.pdf)
 
@@ -133,9 +134,10 @@ Adaptable and quick-learning professional seeking a role to contribute to a dyna
 
     **Result:** This study explores how treatment adherence, disease severity, and patient outcomes interact in neuromuscular disorders, emphasizing the need for holistic, personalized care. It highlights the power of machine learning models like CatBoost and Random Forest to improve early detection, predict major health issues, and optimize treatment strategies. The findings stress the importance of continuous monitoring, tailored interventions, and further model validation to enhance long-term patient outcomes.
 
-<hr style="height:2px; background-color:black; border:none;" />
+
 
 ## **INTERNSHIP**
+<hr style="height:2px; background-color:black; border:none;" />
 
 **Company Name : [SIMA](https://www.simamills.in/)** (South Indian Mill Association)
 
@@ -143,20 +145,20 @@ Adaptable and quick-learning professional seeking a role to contribute to a dyna
 
 **Duration:** July-August 2022 & July -2024
 
-<hr style="height:2px; background-color:black; border:none;" />
+
 
 ## **SKILLS**
-
+<hr style="height:2px; background-color:black; border:none;" />
 -   **Programming Languages:** R , Python , SQL
 
 -   **Tools and Software:** MS-Office, Excel, R-Studio, SPSS, SYSTAT, Jamovi, Latex
 
 -   **Version Control:** Git , GitHub
 
-<hr style="height:2px; background-color:black; border:none;" />
+
 
 ## **AWARDS & ACHIEVEMENTS**
-
+<hr style="height:2px; background-color:black; border:none;" />
 -   **BASIC LIFE SUPPORT AND RECOVERY POSITION**--Voluntary work in the ’WORLD RECORD EVENT UNDER ASIA BOOK OF RECORDS’
 
     **Year :** 2023
@@ -165,25 +167,28 @@ Adaptable and quick-learning professional seeking a role to contribute to a dyna
 
     **Year:** June–2024 & July–2024
 
-<hr style="height:2px; background-color:black; border:none;" />
+
 
 ## **INTERESTED AREA**
+<hr style="height:2px; background-color:black; border:none;" />
 
 -   Analysis
 -   Estimation
 -   Coding
 
-<hr style="height:2px; background-color:black; border:none;" />
 
 ## **LANGUAGES KNOWN**
+<hr style="height:2px; background-color:black; border:none;" />
+
 
 -   Tamil
 -   English
 -   French
 
-<hr style="height:2px; background-color:black; border:none;" />
+
 
 ## **HOBBIES**
+<hr style="height:2px; background-color:black; border:none;" />
 
 -   Story Editing
 -   Chess
