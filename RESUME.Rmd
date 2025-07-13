@@ -20,12 +20,13 @@ knitr::opts_chunk$set(echo = TRUE)
 -   **Address:** Salem, Tamil Nadu
 
 ## **OBJECTIVE**
+
 <hr style="height:2px; background-color:black; border:none;" />
 
 Adaptable and quick-learning professional seeking a role to contribute to a dynamic team with problem-solving skills and effective collaboration.
 
-
 ## **EDUCATION**
+
 <hr style="height:2px; background-color:black; border:none;" />
 
 -   **Master of Science in Statistics**
@@ -68,9 +69,8 @@ Adaptable and quick-learning professional seeking a role to contribute to a dyna
 
     **Percentage:** 80.40%
 
-
-
 ## **COURSES & CERTIFICATES**
+
 <hr style="height:2px; background-color:black; border:none;" />
 
 -   **Complete Machine Learning With R Studio - ML for 2025** -[Udemy](https://www.udemy.com/certificate/UC-7fcf6841-3a51-4549-a802-9f37ec9ff15e/)
@@ -78,6 +78,7 @@ Adaptable and quick-learning professional seeking a role to contribute to a dyna
 -   **Introduction to Biostatistics** - [NPTEL](https://drive.google.com/file/d/1z-gr14be_SKwmc6pE8UwzGLGL4scE0ry/view?usp=drive_link)
 -   **Biostatistics and Design of Experiments** -[NPTEL](https://drive.google.com/file/d/139wtpd2STRq0rpgxqsOj-gO5Rsj6UOhD/view?usp=sharing)
 -   **Essentials Of Data Science With R Software - 2\_ Sampling Theory And Linear Regression Analysis** -[NPTEL](https://drive.google.com/file/d/1x93cZzqcByN9a1D419v3Sao0Q3B6AajU/view?usp=sharing)
+-   **Tidymodels in R: Building tidy machine learning models** - [Coursera](https://www.coursera.org/account/accomplishments/verify/L6JLQCA9KNC4)
 -   **Google Cloud Big Data and Machine Learning Fundamentals** -[Coursera](https://coursera.org/verify/XUESAPJL8JLS)
 -   **Predictive Modeling, Model Fitting, and Regression Analysis** -[Coursera](https://coursera.org/verify/7F37KUMZF5BT)
 -   **Linear Regression For Business Statistics** -[Coursera](https://coursera.org/share/5ecc634caca4d88d30ada2afd783e729)
@@ -89,9 +90,8 @@ Adaptable and quick-learning professional seeking a role to contribute to a dyna
 -   **SQL for Beginners : Learn SQL using MySQL and Database Design Course** -[Scaler](https://moonshot.scaler.com/s/sl/JuLJrv_MXC)
 -   **Elements Of AI** -[University of Helsinki](https://certificates.mooc.fi/validate/s6y8icoeil9)
 
-
-
 ## **PROJECTS**
+
 <hr style="height:2px; background-color:black; border:none;" />
 
 -   [**Statistical Study on Vital Reports**](https://github.com/Deepaneesh/Statistical-Study-on-Vital-Reports/blob/main/Statistical%20Study%20on%20Vital%20Reports.pdf)
@@ -134,9 +134,8 @@ Adaptable and quick-learning professional seeking a role to contribute to a dyna
 
     **Result:** This study explores how treatment adherence, disease severity, and patient outcomes interact in neuromuscular disorders, emphasizing the need for holistic, personalized care. It highlights the power of machine learning models like CatBoost and Random Forest to improve early detection, predict major health issues, and optimize treatment strategies. The findings stress the importance of continuous monitoring, tailored interventions, and further model validation to enhance long-term patient outcomes.
 
-
-
 ## **INTERNSHIP**
+
 <hr style="height:2px; background-color:black; border:none;" />
 
 **Company Name : [SIMA](https://www.simamills.in/)** (South Indian Mill Association)
@@ -145,20 +144,20 @@ Adaptable and quick-learning professional seeking a role to contribute to a dyna
 
 **Duration:** July-August 2022 & July -2024
 
-
-
 ## **SKILLS**
+
 <hr style="height:2px; background-color:black; border:none;" />
+
 -   **Programming Languages:** R , Python , SQL
 
 -   **Tools and Software:** MS-Office, Excel, R-Studio, SPSS, SYSTAT, Jamovi, Latex
 
 -   **Version Control:** Git , GitHub
 
-
-
 ## **AWARDS & ACHIEVEMENTS**
+
 <hr style="height:2px; background-color:black; border:none;" />
+
 -   **BASIC LIFE SUPPORT AND RECOVERY POSITION**--Voluntary work in the ’WORLD RECORD EVENT UNDER ASIA BOOK OF RECORDS’
 
     **Year :** 2023
@@ -167,27 +166,24 @@ Adaptable and quick-learning professional seeking a role to contribute to a dyna
 
     **Year:** June–2024 & July–2024
 
-
-
 ## **INTERESTED AREA**
+
 <hr style="height:2px; background-color:black; border:none;" />
 
 -   Analysis
 -   Estimation
 -   Coding
 
-
 ## **LANGUAGES KNOWN**
-<hr style="height:2px; background-color:black; border:none;" />
 
+<hr style="height:2px; background-color:black; border:none;" />
 
 -   Tamil
 -   English
 -   French
 
-
-
 ## **HOBBIES**
+
 <hr style="height:2px; background-color:black; border:none;" />
 
 -   Story Editing
