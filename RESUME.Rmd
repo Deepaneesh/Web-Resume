@@ -25,6 +25,48 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Adaptable and quick-learning professional seeking a role to contribute to a dynamic team with problem-solving skills and effective collaboration.
 
+## **Experience**
+
+<hr style="height:2px; background-color:black; border:none;" />
+
+**Data Analyst**\
+*Euromonitor International Inc, Bangalore*\
+**Oct 2025 – Apr 2026**
+
+**Projects**
+
+**Trademark Applications & Gross National Income**\
+*R Programming, APIs, Data Analysis*
+
+-   Automated the end-to-end data analysis pipeline, improving efficiency and reducing manual effort.\
+-   Extracted data from multiple sources using APIs and ensured data quality through validation and cleaning.\
+-   Performed data transformation, manipulation, and statistical analysis.\
+-   Developed forecasting models and delivered structured outputs for reporting and decision-making.
+
+**No. of Households & Household by Number of Persons**\
+*R Programming, APIs, Data Analysis, R Package*
+
+-   Designed and automated an end-to-end data analysis pipeline, significantly improving efficiency and reducing manual intervention.\
+-   Collected data from multiple sources using APIs and ensured high data quality through rigorous validation and cleaning.\
+-   Performed data transformation, manipulation, and in-depth statistical analysis to derive meaningful insights.\
+-   Developed and optimized complex custom functions and packages to support internal mathematical computations.\
+-   Built forecasting models and delivered structured, actionable outputs for reporting and decision-making.
+
+------------------------------------------------------------------------
+
+**Jr. Associate Data Engineering**\
+*RPM International Inc, Coimbatore*\
+**July 2025 – Oct 2025**
+
+**Project**
+
+**Inventory Aging & Safety Stock Optimization Model**\
+*Excel, Power BI*
+
+-   Built an enterprise-level inventory aging dashboard using Excel and Power BI to support inventory planning and control across regions.\
+-   Conducted aging, trend, and year-over-year analysis to identify slow-moving and obsolete inventory at division, warehouse, and item levels.\
+-   Developed and validated a safety stock optimization model using ABC–XYZ analysis, incorporating demand variability and sales velocity.
+
 ## **EDUCATION**
 
 <hr style="height:2px; background-color:black; border:none;" />
@@ -134,6 +176,12 @@ Adaptable and quick-learning professional seeking a role to contribute to a dyna
     **Tools:** R programming , Jamovi , Excel
 
     **Result:** This study explores how treatment adherence, disease severity, and patient outcomes interact in neuromuscular disorders, emphasizing the need for holistic, personalized care. It highlights the power of machine learning models like CatBoost and Random Forest to improve early detection, predict major health issues, and optimize treatment strategies. The findings stress the importance of continuous monitoring, tailored interventions, and further model validation to enhance long-term patient outcomes.
+
+-   [**Development of Custom R Packages for Automated Data Analysis**](https://github.com/Deepaneesh/RVD)
+
+    ***Tools:** R Programming, Package Development, Data Analysis*\
+
+    Designed and developed custom R packages to automate complex data processing and analytical workflows. Built reusable functions for data extraction, validation, transformation, and forecasting tasks. Improved efficiency and scalability by standardizing internal computations and workflows.
 
 ## **INTERNSHIP**
 
