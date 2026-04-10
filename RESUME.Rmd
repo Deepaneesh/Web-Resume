@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Adaptable and quick-learning professional seeking a role to contribute to a dynamic team with problem-solving skills and effective collaboration.
 
-## **Experience**
+## **EXPERIENCE**
 
 <hr style="height:2px; background-color:black; border:none;" />
 
